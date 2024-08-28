@@ -1,0 +1,23 @@
+     ---AK-EDU-LEARINIG_PROJECT---
+ 
+This project is a web-APP where a student can have account and be able to study with the courses offered by AK admin.
+
+
+
+
+PROJECT-REQUIREMENT [E2E]
+   
+   ->STUDENT - LOGIN
+       
+        i.  Email-ID and passwords are required for this. default inactive status. activated by ADMIN
+       ii.  Student are able to see the courses offered by us but can only watch the documents of offered 
+            course.
+      iii.  Day- to - Day projects and documents are provided others are locked till a Admin unlocks it    
+
+
+
+
+   ->ADMIN   -LOGIN
+
+
+   -- Having all access to delete and update a course and get student on board , activate them and delete them
